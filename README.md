@@ -24,7 +24,7 @@ Services Used:
 Step 1: Prepare the Dataset
 - Try to use excel or google sheets
 - Name the file as `sample-filename.csv`
-  ![Dataset](Netflix-data.png)
+  ![Dataset](Images/Netflix-data.png)
 </br>
 
 Step 2: Upload dataset to S3 bucket
@@ -39,7 +39,7 @@ Step 2: Upload dataset to S3 bucket
 Step 3: Create a manifest file for quicksight 
 - Like this
 
-  ![Manifest-code](manifest.png) 
+  ![Manifest-code](Images/manifest.png) 
 </br>
 
 Step 4: Create QuickSight Dashboard
@@ -49,7 +49,7 @@ Step 4: Create QuickSight Dashboard
 - Visualize
 </br>
   
-  ![Quicksight](Quicksight-dataset-creation.png)
+  ![Quicksight](Images/Quicksight-dataset-creation.png)
 </br>
 
 **And Tadaaa.. QUICKSIGHT is all ready!** 
@@ -63,7 +63,7 @@ Step 4: Build Visuals
 - Add drill-downs and interactivity to stand out!
 </br>
   
-  ![Quicksight-charts](Quicksight-charts.png)
+  ![Quicksight-charts](Images/Quicksight-charts.png)
 
 </br>
 
