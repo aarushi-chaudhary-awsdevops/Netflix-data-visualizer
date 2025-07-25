@@ -67,6 +67,6 @@ Step 4: Build Visuals
 
 </br>
 
-*Can Import data later-on add calculated fields too for further computations*
+*Can Import data later-on & add calculated fields too for further computations*
 
 </br>
